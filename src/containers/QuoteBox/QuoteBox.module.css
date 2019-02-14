@@ -1,0 +1,11 @@
+#quoteBox {
+  box-sizing: border-box;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#quoteBox p {
+  font-family: "Parisienne";
+}
